@@ -74,4 +74,4 @@ success
 ## Known issues
 
 - It's possible to attach a device already attached in another virtual machine, it is the same behaviour as the virt-viewer's feature.
-- It's not possible to know whether a device is already attached
+- It's not possible to know whether a device is already attached.
